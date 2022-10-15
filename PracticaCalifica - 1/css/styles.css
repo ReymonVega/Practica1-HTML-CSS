@@ -1,0 +1,150 @@
+
+
+.titulos{
+    text-align: center;
+    border: 2px solid #98c9a3;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+.titulos h3{
+    font-size: 28px;
+}
+
+
+.titulos h3,
+.titulos p {
+    border: 2px solid #98c9a3;
+       
+    margin-bottom: 20px;
+}
+
+/* .titulos .parrafo{
+    border: 2px solid #98c9a3;
+
+} */
+
+.contenidoDivP{
+    margin: 0 auto;
+    border: 2px solid #0096c7;
+    padding: 15px;
+    display: flex;
+    width: 1000px;
+}
+
+.menuHamburguesa{
+    font-size: 20px;
+    border: 2px solid #9ef01a;
+    padding: 10px;
+    width: 400px;
+    
+}
+
+.menuHamburguesa nav{
+    border: 2px solid green;
+    gap: 30px;
+    margin-bottom: 20px;
+       
+}
+
+
+.contenidoArticle{
+    border: 1px solid #ef233c;
+    padding: 5px;
+}
+
+/* Section 1 */
+
+.tituloDelArticulo{
+    border: 1px solid #4895ef;
+    padding: 20px;
+}
+
+.tituloDelArticulo h3, 
+.tituloDelArticulo p{
+    border: 1px solid #40916c;
+    margin-bottom: 15px;
+}
+
+.tituloDelArticulo h3{
+    color: #48cae4;
+    font-size: 28px;
+    
+}
+
+.tituloDelArticulo p{
+    line-height: 25px;
+}
+/* Section 2 */
+.logos{
+    border: 1px solid #4895ef;
+    padding: 20px;   
+}
+
+/* Caja Principal de los LOGOS */
+.cajaPrincipalLogos{
+    border: 1px solid #1be7ff;
+    text-align: center;
+    display: flex;
+    gap: 15px;
+    padding: 10px;
+}
+
+.logoCalendario{
+    border: 1px solid #ff36ab;
+    padding: 15px;
+
+}
+
+.logoCalendario img,
+.logoCalendario h4,
+.logoCalendario p,
+.logoCalendario a{
+    border: 1px solid    green;
+}
+
+.logoCasa{
+    border: 1px solid #ff36ab;
+    padding: 15px;
+}
+
+.logoCasa img,
+.logoCasa h4,
+.logoCasa p,
+.logoCasa a{
+    border: 1px solid    green;
+}
+
+
+.logoInformacion{
+    border: 1px solid #ff36ab;
+    padding: 15px;
+}
+
+.logoInformacion img,
+.logoInformacion h4,
+.logoInformacion p,
+.logoInformacion a{
+    border: 1px solid    green;
+}
+/* Finde de la CAJA PRINCIPAL LOGOS */
+
+.imagen{
+    width: 100%;
+}
+
+
+.foo{
+    background-color: gray;
+    padding: 1px;
+    height: 45px;    
+}
+
+.foo p{
+    text-align: right;
+    margin: 13px 15px;
+    border: 1px solid #09ff90;
+    
+}
+.foo p span {
+    font-weight: bold;
+}
